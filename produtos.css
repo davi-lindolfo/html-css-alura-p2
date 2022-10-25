@@ -56,6 +56,9 @@ nav a:hover  {
 
 .produtos li:active {
   border-color: #088C19;
+  
+.produtos li:hover h2{
+  font-size: 34px;
 }
 .produtos h2 {
   font-size: 30px
